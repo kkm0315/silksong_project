@@ -1,0 +1,15 @@
+{
+  "width": 800,
+  "height": 600,
+  "regions": [
+    {"id":"pharloom","label":"Enter Pharloom","ost":"Enter Pharloom","hint":"프롤로그","coords":[30,30,200,90]},
+    {"id":"moss","label":"Moss Grotto","ost":"Moss Grotto","hint":"숲 동굴","coords":[270,40,220,110]},
+    {"id":"bone","label":"Bone Bottom","ost":"Bone Bottom","hint":"해골 지대","coords":[540,50,220,100]},
+    {"id":"high","label":"High Halls","ost":"High Halls","hint":"거대한 홀","coords":[80,200,220,120]},
+    {"id":"choir","label":"The Choir","ost":"The Choir","hint":"아레나","coords":[340,210,220,110]},
+    {"id":"under","label":"Underworks","ost":"Underworks","hint":"기계 하부","coords":[600,210,180,120]},
+    {"id":"choral","label":"Choral Chambers","ost":"Choral Chambers","hint":"성가의 방","coords":[60,380,220,120]},
+    {"id":"songclave","label":"Songclave","ost":"Songclave","hint":"음악 길드","coords":[320,380,220,120]},
+    {"id":"cog","label":"Cogwork Core","ost":"Cogwork Core","hint":"톱니 핵심","coords":[580,380,190,120]}
+  ]
+}

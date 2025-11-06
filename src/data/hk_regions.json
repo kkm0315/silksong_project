@@ -1,0 +1,18 @@
+{
+  "width": 800,
+  "height": 600,
+  "regions": [
+    {"id":"dirtmouth","label":"Dirtmouth","ost":"Dirtmouth","hint":"시작 마을","coords":[20,20,160,80]},
+    {"id":"crossroads","label":"Forgotten Crossroads","ost":"Crossroads","hint":"초반 필드","coords":[220,60,180,110]},
+    {"id":"greenpath","label":"Greenpath","ost":"Greenpath","hint":"초록 숲","coords":[430,90,170,120]},
+    {"id":"city","label":"City of Tears","ost":"City of Tears","hint":"비 내리는 도시","coords":[250,220,200,130]},
+    {"id":"crystal","label":"Crystal Peak","ost":"Crystal Peak","hint":"광산","coords":[480,10,180,100]},
+    {"id":"fungal","label":"Fungal Wastes","ost":"Fungal Wastes","hint":"버섯 지대","coords":[70,200,170,120]},
+    {"id":"royal","label":"Royal Waterways","ost":"—","hint":"배경음 환경음","coords":[60,360,190,100]},
+    {"id":"queen","label":"Queen's Gardens","ost":"—","hint":"테마 변주","coords":[480,240,180,110]},
+    {"id":"deepnest","label":"Deepnest","ost":"—","hint":"저음 위주","coords":[280,380,210,120]},
+    {"id":"hive","label":"Hive","ost":"—","hint":"벌둥지","coords":[520,410,160,100]},
+    {"id":"basin","label":"Ancient Basin","ost":"—","hint":"저지대","coords":[40,500,200,80]},
+    {"id":"abyss","label":"The Abyss","ost":"—","hint":"깊은 심연","coords":[260,520,200,60]}
+  ]
+}
